@@ -1,6 +1,6 @@
-# Booking Movie Ticket APIs Spring Boot Project
+# How to use virtual thread in Spring Boot
 
-Virtual Threads in Springboot 3.2
+Virtual Threads in Springboot 3.2 with Java 21
 
 ## Features
 * Details of virtual thread.
